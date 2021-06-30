@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354931858326",
+    "project_id": "umovi-app",
+    "storage_bucket": "umovi-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354931858326:android:ac2ec87dda2d1888a5dbb7",
+        "android_client_info": {
+          "package_name": "com.example.umovi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354931858326-sut4evrtjga3jdn0k96h8pf57augbcgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOeacFHJx4Ho68fs0rYjZy5MoRuZd2Fp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354931858326-sut4evrtjga3jdn0k96h8pf57augbcgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
